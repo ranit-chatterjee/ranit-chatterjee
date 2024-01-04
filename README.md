@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ranit-chatterjee
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science projects
-- 📫 How to reach me ranitchatterjee0308@gmail.com
+- 👀 Currently working as a DevOps Engineer
+- 🌱 Always keen to learn and explore & work on new technologies.
+- 💞️ My main stacks include Data Science, DevOps Engineering, Automation, IaC, Cloud and Backend Engineering(just started to be honest).
+- 📫 How to reach me ranit.official99@gmail.com
 
 <!---
 ranit-chatterjee/ranit-chatterjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
